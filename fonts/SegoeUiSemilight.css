@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Segoe UI Semilight";
+    src: url("SegoeUiSemilight.eot"); /* IE9 */
+    src: url("SegoeUiSemilight.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("SegoeUiSemilight.woff") format("woff"), /* chrome, firefox */
+    url("SegoeUiSemilight.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("SegoeUiSemilight.svg#Segoe UI Semilight") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+

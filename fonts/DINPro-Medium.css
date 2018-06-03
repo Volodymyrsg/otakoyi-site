@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "DIN Pro Medium";
+    src: url("DINPro-Medium.eot"); /* IE9 */
+    src: url("DINPro-Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("DINPro-Medium.woff") format("woff"), /* chrome, firefox */
+    url("DINPro-Medium.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("DINPro-Medium.svg#DIN Pro Medium") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
