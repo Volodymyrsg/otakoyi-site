@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "DIN Pro Medium";
+    src: url("../fonts/DINPro-Medium.eot"); /* IE9 */
+    src: url("../fonts/DINPro-Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/DINPro-Medium.woff") format("woff"), /* chrome, firefox */
+    url("../fonts/DINPro-Medium.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("../fonts/DINPro-Medium.svg#DIN Pro Medium") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "DIN Pro Bold";
+    src: url("../fonts/DINPro-Bold.eot"); /* IE9 */
+    src: url("../fonts/DINPro-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/DINPro-Bold.woff") format("woff"), /* chrome, firefox */
+    url("../fonts/DINPro-Bold.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("../fonts/DINPro-Bold.svg#DIN Pro Bold") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Segoe UI Light";
+    src: url("../fonts/Segoe UI Light.eot"); /* IE9 */
+    src: url("../fonts/Segoe UI Light.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/Segoe UI Light.woff") format("woff"), /* chrome, firefox */
+    url("../fonts/Segoe UI Light.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("../fonts/Segoe UI Light.svg#Segoe UI Light") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Segoe UI Semilight";
+    src: url("../fonts/SegoeUiSemilight.eot"); /* IE9 */
+    src: url("../fonts/SegoeUiSemilight.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/SegoeUiSemilight.woff") format("woff"), /* chrome, firefox */
+    url("../fonts/SegoeUiSemilight.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("../fonts/SegoeUiSemilight.svg#Segoe UI Semilight") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Segoe UI Regular";
+    src: url("../fonts/SegoeUIRegular.eot"); /* IE9 */
+    src: url("../fonts/SegoeUIRegular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/SegoeUIRegular.woff") format("woff"), /* chrome, firefox */
+    url("../fonts/SegoeUIRegular.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("../fonts/SegoeUIRegular.svg#Segoe UI") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Proxima Nova Th";
+    src: url("../fonts/ProximaNovaT-Thin.eot"); /* IE9 */
+    src: url("../fonts/ProximaNovaT-Thin.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/ProximaNovaT-Thin.woff") format("woff"), /* chrome, firefox */
+    url("../fonts/ProximaNovaT-Thin.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("../fonts/ProximaNovaT-Thin.svg#Proxima Nova Th") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Myriad Pro";
+    src: url("../fonts/MyriadProRegular.eot"); /* IE9 */
+    src: url("../fonts/MyriadProRegular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/MyriadProRegular.woff") format("woff"), /* chrome, firefox */
+    url("../fonts/MyriadProRegular.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("../fonts/MyriadProRegular.svg#Myriad Pro") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
